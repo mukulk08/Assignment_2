@@ -1,9 +1,9 @@
-laptop, 100, 200
-mobile, 50, 200
-speaker, 300, 200
-fridge, 400, 450
-pendrive, 250, 125
-pen, 50, 30
-textbook, 200, 150
-football, 500, 400
+laptop, 100, 200, used
+mobile, 50, 200, unused
+speaker, 300, 200, used
+fridge, 400, 450, unused
+pendrive, 250, 125, unused
+pen, 50, 30, used
+textbook, 200, 150, unused 
+football, 500, 400, used
 
